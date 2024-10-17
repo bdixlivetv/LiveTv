@@ -10,13 +10,13 @@ https://restream-ten.vercel.app/cors?url=http://abcnew.site:8880/live/D12m2439/6
 https://restream-ten.vercel.app/cors?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",T SPorts
-https://restream-ten.vercel.app/cors?url=https://fdev.short.gy/PakVenGxRanaPk.m3u8
+https://fdev.short.gy/PakVenGxRanaPk.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
 https://restream-ten.vercel.app/cors?url=http://abcnew.site:8880/live/D12m2439/62229525/71109.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj",A sports
-https://restream-ten.vercel.app/cors?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/baafc430326941.561dfe452f0a6.jpg",Ten sports
 https://restream-ten.vercel.app/cors?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8

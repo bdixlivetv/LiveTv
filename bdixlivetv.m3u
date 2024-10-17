@@ -15,6 +15,9 @@ https://restream-ten.vercel.app/cors?url=https://fdev.short.gy/PakVenGxRanaPk.m3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",T SPorts 2
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp", Sport.tv 1
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
 http://abcnew.site:8880/live/D12m2439/62229525/71109.m3u8
 

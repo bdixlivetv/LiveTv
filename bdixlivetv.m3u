@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVadaFPkqit6o_jFAc0xiCycWJ-yTTm8-MrfTHF-WAAIwEynAYgzcZ47OEK1MG04DQ9tI&usqp=CAU", Super Cricket
+http://sapphireapp.xyz:8080/live/e69ynYRXG6/4087678600/47634.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", SkySPorts Cricket
 http://abcnew.site:8880/live/D12m2439/62229525/2879.m3u8
 

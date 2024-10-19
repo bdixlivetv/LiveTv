@@ -1,33 +1,33 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
-http://xtv.ooo:8080/Galaxy.2/4321/167567.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167567
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
-http://xtv.ooo:8080/Galaxy.2/4321/217968.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/217968
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
-http://xtv.ooo:8080/Galaxy.2/4321/167568.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167568
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET",PK: TEN SPORTS
-http://xtv.ooo:8080/Galaxy.2/4321/167569.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167569
 #EXTINF:-1 tvg-id="" tvg-name="T20 WORLD CUP 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET",T20 WORLD CUP 01
-http://xtv.ooo:8080/Galaxy.2/4321/219643.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/219643
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 1)
-http://xtv.ooo:8080/Galaxy.2/4321/219689.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/219689
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 2)
-http://xtv.ooo:8080/Galaxy.2/4321/221417.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/221417
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Sony Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | Sony Ten 1 HD
-http://xtv.ooo:8080/Galaxy.2/4321/167570.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167570
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Sony Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | Sony Ten 2 HD
-http://xtv.ooo:8080/Galaxy.2/4321/167571.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167571
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Sony Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | Sony Ten 3 HD
-http://xtv.ooo:8080/Galaxy.2/4321/167572.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167572
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN: Sony Ten 4
-http://xtv.ooo:8080/Galaxy.2/4321/167595.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167595
 #EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI: Ten Cricket
-http://xtv.ooo:8080/Galaxy.2/4321/167587.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167587
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
-http://xtv.ooo:8080/Galaxy.2/4321/167573.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167573
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
-http://xtv.ooo:8080/Galaxy.2/4321/167574.m3u8
+http://xtv.ooo:8080/Galaxy.2/4321/167574
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
 http://xtv.ooo:8080/Galaxy.2/4321/167575.m3u8
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD

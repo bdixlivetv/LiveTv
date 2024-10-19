@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
-http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/217968.m3u8
 
@@ -87,13 +84,13 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167584.m3u8
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",IN: EUROSPORT HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/167585.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: 1SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET", IN: 1SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/167586.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET",IN: DD Sports
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET", IN: DD Sports
 http://xtv.ooo:8080/live/Galaxy.2/4321/167588.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET", T-SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="CRICKET",AFG: RTA SPORTS
@@ -135,8 +132,6 @@ http://abcnew.site:8880/live/D12m2439/62229525/31569.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.transparenthands.org/wp-content/uploads/2020/07/Ten-s-sport.png?fit=200%2C200&ssl=1",Ten Sports 
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",T SPorts
-https://restream-ten.vercel.app/cors?url=https://fdev.short.gy/PakVenGxRanaPk.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",T SPorts 2
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8

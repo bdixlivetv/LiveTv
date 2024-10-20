@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png", WIllow Cricket
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240315_082141.jpg", WIllow Cricket
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/31569.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/mam-images/2013/11/11/SS_logo.JPG",Star Sports 1
@@ -12,10 +12,13 @@ http://vo01.mohdtv.com:8880/live/voby5053/69857675/2879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg" group-title="CRICKET",PK: PTV SPORTS HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/217968.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS
+http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/167568.m3u8
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET",PK: TEN SPORTS
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/baafc430326941.561dfe452f0a6.jpg" group-title="CRICKET",PK: TEN SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/167569.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="T20 WORLD CUP 01" tvg-logo="https://thumbs.dreamstime.com/b/icc-mens-t-world-cup-cricket-us-west-indies-logo-vector-illustration-299855360.jpg" group-title="CRICKET",T20 WORLD CUP 01
@@ -81,7 +84,7 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167593.m3u8
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",UK: Sky Sports Cricket
 http://xtv.ooo:8080/live/Galaxy.2/4321/167594.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET",IN | Willow Xtra
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/Willow%20Xtra.jpg" group-title="CRICKET",IN | Willow Xtra
 http://xtv.ooo:8080/live/Galaxy.2/4321/167582.m3u8
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
@@ -99,9 +102,6 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167586.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET", IN: DD Sports
 http://xtv.ooo:8080/live/Galaxy.2/4321/167588.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET", T-SPORTS
-http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://yt3.googleusercontent.com/qcDzPkEbeNQ8oII0wIc5FGUaRfUg1BSQI5MDGzT5SX2IFFwRduFL9rtWdMaejYCKtAZIA9E20w=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET",AFG: RTA SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/167591.m3u8
 
@@ -110,6 +110,9 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/206297.m3u8
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/206566.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",T SPorts
+http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="CRICKET",PK: MAQ TV CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/207190.m3u8

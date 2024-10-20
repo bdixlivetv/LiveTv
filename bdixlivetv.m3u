@@ -27,7 +27,7 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/219643.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET",PK: A Sports HD (Server 1)
 http://xtv.ooo:8080/live/Galaxy.2/4321/219689.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 2)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkAPsj5_azQWwEGkcrJbg5hD_xITmrOKhtQ&s" group-title="CRICKET",PK: A Sports HD (Server 2)
 http://xtv.ooo:8080/live/Galaxy.2/4321/221417.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Sony Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | Sony Ten 1 HD
@@ -42,13 +42,10 @@ http://vo01.mohdtv.com:8880/live/voby5053/69857675/55286.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN: Sony Ten 4
 http://xtv.ooo:8080/live/Galaxy.2/4321/167595.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI: Ten Cricket
-http://xtv.ooo:8080/live/Galaxy.2/4321/167587.m3u8
-
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/live/Galaxy.2/4321/167573.m3u8
 
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_HX137M9LxThqQkoX2yA0wHCOLZf0Iq7HIwdHQ301dHdwOHxXhT_f9LFnZxh--Gl4RA&usqp=CAU" group-title="CRICKET",IN: Star Sports tamil 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/167574.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
@@ -154,7 +151,7 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
 http://abcnew.site:8880/live/D12m2439/62229525/71109.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj",A sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkAPsj5_azQWwEGkcrJbg5hD_xITmrOKhtQ&s",A sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/baafc430326941.561dfe452f0a6.jpg",Ten sports

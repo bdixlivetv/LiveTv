@@ -3,17 +3,26 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/31569.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS 2
+http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="bein-sports" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="CRICKET", bein sports 1
 https://webuit.mizhls.ru/lb/premium346/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240315_082141.jpg", WIllow Cricket
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/31569.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
+http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/mam-images/2013/11/11/SS_logo.JPG",Star Sports 1 
 <iframe width=100% height=480 scrolling=no frameborder=0 allowtransparency=true marginwidth='0' marginheight='0' src='https://rips.in/player.php?ch=3' allowfullscreen ></iframe>
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/mam-images/2013/11/11/SS_logo.JPG",Star Sports 1 
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/55273.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/live/Galaxy.2/4321/167573.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", SkySPorts Cricket
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/2879.m3u8
@@ -37,6 +46,9 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167569.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="G-tv" tvg-logo="https://cutt.ly/TeS0rYgG" group-title="CRICKET", GTV
 https://hotflixbd.online/GTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
+http://xtv.ooo:8080/liveGalaxy.2/4321/206566.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="T20 WORLD CUP 01" tvg-logo="https://thumbs.dreamstime.com/b/icc-mens-t-world-cup-cricket-us-west-indies-logo-vector-illustration-299855360.jpg" group-title="CRICKET",T20 WORLD CUP 01
 http://xtv.ooo:8080/live/Galaxy.2/4321/219643.m3u8
@@ -208,6 +220,8 @@ http://abcnew.site:8880/live/D12m2439/62229525/28948.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAATZp1kzeckj73wgrl1hYlO6bMwzCYxn8nQ&s", Sony Ten 2
 http://abcnew.site:8880/live/D12m2439/62229525/55284.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/167568.m3u8

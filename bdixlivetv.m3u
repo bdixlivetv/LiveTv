@@ -25,8 +25,6 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/217968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS 2
 http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVadaFPkqit6o_jFAc0xiCycWJ-yTTm8-MrfTHF-WAAIwEynAYgzcZ47OEK1MG04DQ9tI&usqp=CAU", Super Cricket
-https://hotflixbd.online/s-cricket/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVadaFPkqit6o_jFAc0xiCycWJ-yTTm8-MrfTHF-WAAIwEynAYgzcZ47OEK1MG04DQ9tI&usqp=CAU", Super Cricket 2
 http://sapphireapp.xyz:8080/live/e69ynYRXG6/4087678600/47634.m3u8

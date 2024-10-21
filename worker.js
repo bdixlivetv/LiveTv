@@ -144,7 +144,7 @@ async function fetchContent(url, data, dataType = 'text') {
 
 // Function to handle playlist requests
 async function handlePlaylistRequest(request) {
-  const playlistUrl = 'https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/refs/heads/main/tivimate_playlist.m3u8';
+  const playlistUrl = 'https://github.com/bdixlivetv/LiveTv/raw/refs/heads/main/bdixlivetv.m3u;
   const result = await fetchContent(playlistUrl);
 
   if (result.status !== 200) {

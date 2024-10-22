@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
-<iframe width=100% height=480 scrolling=no frameborder=0 allowtransparency=true marginwidth='0' marginheight='0' src='https://rips.in/player.php?ch=6' allowfullscreen ></iframe>
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
-<iframe width=100% height=480 scrolling=no frameborder=0 allowtransparency=true marginwidth='0' marginheight='0' src='https://rips.in/player.php?ch=6' allowfullscreen ></iframe>
-
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS 2
 http://xtv.ooo:8080/live/Galaxy.2/4321/167590.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
+<iframe width=100% height=480 scrolling=no frameborder=0 allowtransparency=true marginwidth='0' marginheight='0' src='https://rips.in/player.php?ch=6' allowfullscreen ></iframe>
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
 <iframe width=100% height=480 scrolling=no frameborder=0 allowtransparency=true marginwidth='0' marginheight='0' src='https://rips.in/player.php?ch=6' allowfullscreen ></iframe>

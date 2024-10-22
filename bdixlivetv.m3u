@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
+https://webuit.mizhls.ru/lb/premium346/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
+http://xtv.ooo:8080/live/0966717777/0966717777/350997.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/31569.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS 2

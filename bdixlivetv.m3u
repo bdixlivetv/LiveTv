@@ -6,9 +6,6 @@ https://cors-proxy.cooks.fyi/http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="CRICKET", T-SPORTS 3
 https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/teS7EsHr", BAN vs SA TEST
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/60792.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkAPsj5_azQWwEGkcrJbg5hD_xITmrOKhtQ&s",A sports
 https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
@@ -20,6 +17,12 @@ https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/PTVSports.stream/pl
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/mam-images/2013/11/11/SS_logo.JPG",Star Sports 1
 https://cors-proxy.cooks.fyi/http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://exchange4media.gumlet.io/news-photo/94857-StarJalsha.jpg",Star jalsha
+https://cors-proxy.cooks.fyi/http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/Yd4QDty",jamuna Tv
+https://cors-proxy.cooks.fyi/http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="bein-sports" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="CRICKET", bein sports 1

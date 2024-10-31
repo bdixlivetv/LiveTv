@@ -21,6 +21,9 @@ https://cors-proxy.cooks.fyi/http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://exchange4media.gumlet.io/news-photo/94857-StarJalsha.jpg",Star jalsha
 https://cors-proxy.cooks.fyi/http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg",Color HD
+https://cors-proxy.cooks.fyi/http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pixahunt.com/graphics/medium/Pixahunt-089fde550d0509374a9e4bcd1cee3b4c.webp",jamuna Tv
 https://cors-proxy.cooks.fyi/http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
 

@@ -6,6 +6,9 @@ https://cors-proxy.cooks.fyi/http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240315_082141.jpg", WIllow Cricket
 https://cors-proxy.cooks.fyi/http://fr.globalplay.live/Sports-19/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", SkySPorts Cricket
+https://cors-proxy.cooks.fyi/http://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="bein-sports" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="CRICKET", bein sports 1
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
@@ -55,9 +58,6 @@ http://vo01.mohdtv.com:8880/live/voby5053/69857675/55273.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/live/Galaxy.2/4321/167573.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", SkySPorts Cricket
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2879.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cutt.ly/XeS0tuZp", STYX Sports 
 https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
@@ -149,9 +149,6 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167594.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/Willow%20Xtra.jpg" group-title="CRICKET",IN | Willow Xtra
 http://xtv.ooo:8080/live/Galaxy.2/4321/167582.m3u8
 
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
-http://xtv.ooo:8080/live/Galaxy.2/4321/167583.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="CRICKET",BS | beIN SPORT CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/167584.m3u8
 
@@ -179,8 +176,8 @@ http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="CRICKET",PK: MAQ TV CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/207190.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET",NZ: SKY Sport Cricket 3
-http://xtv.ooo:8080/live/Galaxy.2/4321/217530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET",NZ: SkySport Cricket 
+https://cors-proxy.cooks.fyi/http://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="CRICKET",PK: FAST SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/308225.m3u8

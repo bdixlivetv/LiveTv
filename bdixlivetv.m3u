@@ -226,3 +226,33 @@ http://abcnew.site:8880/live/D12m2439/62229525/55284.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
 http://xtv.ooo:8080/live/Galaxy.2/4321/167568.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png" group-title="Sports â½ðð",Rta sports bd vs afg
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s" group-title="Sports â½ðð",Astro cricket backup
+http://starshare.live:8080/live/Habib/Habib/2494.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="Sports â½ðð",Supersport cricket
+http://starshare.live:8080/live/Habib/Habib/158442.m3u8
+#EXTINF:-1 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports â½ðð",Bein sports extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports â½ðð",Sony sports ten 2 hd
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373199&extension=ts
+#EXTINF:-1 tvg-logo="https://gateway.prd.sky.ch/imageapi/utils/s3path?param=%7B%22path%22%3A%22img%2Fmoviecover%2Fch%2Fimages%2Fchannel%2F363.png%22%2C%22format%22%3A%22webp%22%2C%22quality%22%3A80%7D" group-title="Sports â½ðð",Sky sports premier league
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1 tvg-logo="https://devcdn.24.co.za/files/supersport/203.svg" group-title="Sports â½ðð",Supersport premier league
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest?cb=20231020154659" group-title="Sports â½ðð",Sport tv3
+http://cord-cutter.net:8080/live/70453597/56651433/167744.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741" group-title="Sports â½ðð",Tnt sports 1
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Sports â½ðð",5
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6TCr5szXcTESwKroTFZJTmLPGKJUZI0_zkVnkHCtUmxICZS_MNsZ867F3kATvFzoVrw" group-title="Sports â½ðð",Dd sports hd
+http://172.105.123.238:18002/play/a03d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png" group-title="Sports â½ðð",Eurosport 1 hd
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sports â½ðð",Mu tv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg" group-title="Sports â½ðð",Redbull tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
